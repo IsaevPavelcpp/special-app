@@ -3,6 +3,5 @@
 int main()
 {
     std::cout << "Hello world!" << std::endl;
-    std::cout << "cpp\n";
-    return 0;
+g    return 0;
 }
